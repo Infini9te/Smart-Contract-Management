@@ -16,11 +16,12 @@ Remainder of two values
 
 ## Commands
 
-Inside the project directory, in the terminal type: npm i
-Open two additional terminals in your VS code
-In the second terminal type: npx hardhat node
-In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js
-Back in the first terminal, type npm run dev to launch the front-end
+Inside the project directory, 
+1. In the terminal type: npm i
+2. Open two additional terminals in your VS code
+3. In the second terminal type: npx hardhat node
+4. In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js
+5. Back in the first terminal, type npm run dev to launch the front-end
 
 ## STEPS
 ### Assessment.sol:
